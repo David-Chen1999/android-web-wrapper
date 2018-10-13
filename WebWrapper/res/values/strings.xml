@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	
-	<string name="app_name"   >Web Wrapper</string>
-	<string name="base_url"   >http://www.google.co.uk/</string>
+	<string name="app_name" >wkb.com</string>
+	<string name="base_url">http://shell.wkb.com/</string>
 	<string name="base_domain">google.co.uk</string>
 	
 	<string name="connection_warning">You are offline. Please connect to the Internet.</string>
